@@ -1,7 +1,6 @@
 # Deno
 
-<style>img {display: block}</style>
-<span align="center">
+<span align="center" style="display: block">
 <img src="https://github.com/hghazni/Deno/blob/master/images/deno_logo.svg" width="400" alt="Deno">
 </span>
 Fun with a type safe runtime built for JavaScript/TypeScript/Web Assembly mostly made with Rust under the hood.
