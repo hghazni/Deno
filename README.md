@@ -1,4 +1,6 @@
 # Deno
+
+<style>img {display: block}</style>
 <span align="center">
 <img src="https://github.com/hghazni/Deno/blob/master/images/deno_logo.svg" width="400" alt="Deno">
 </span>
